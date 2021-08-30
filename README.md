@@ -7,7 +7,7 @@ The tweets have been collected between **December 8, 2020** and **January 7, 202
 
 Repository structure:
 - dataset: contains a balanced dataset with 4341 tweets annotated in the categories "against" (0), "neutral" (1) and "in favor" (2);
-- n-grams: daily unigrams and bigrams+trigrams extracted from the dataset containing all the tweets, sorted by the number of appearances;
+- n-grams: daily unigrams, bigrams and trigrams extracted from the dataset containing all the tweets, sorted by the number of appearances;
 
 # Usage
 In accordance with the Twitter policy, in the annotated dataset, only the tweet ids have been provided. The tweets can be hydrated using a tool such as Twarc (https://github.com/DocNow/twarc) or Hydrator (https://github.com/DocNow/hydrator).
