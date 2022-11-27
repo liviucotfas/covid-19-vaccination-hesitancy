@@ -1,5 +1,5 @@
 # Overview
-This repository contains the annotated dataset, the unigrams, bigrams and trigrams referenced in the paper **"COVID-19 Vaccine Hesitancy in the Month Following the Start of the Vaccination Process"** submitted to **International Journal of Environmental Research and Public Health**.
+This repository contains the annotated dataset, the unigrams, bigrams and trigrams referenced in the paper **"COVID-19 Vaccine Hesitancy in the Month Following the Start of the Vaccination Process"** published in the **International Journal of Environmental Research and Public Health**. The paper is available at: https://www.mdpi.com/1660-4601/18/19/10438 .
 
 The tweets have been collected between **December 8, 2020** and **January 7, 2021** as described in our paper. The aim of the paper is to analyze the dynamics of the public opinion on Twitter in the first month after the start of the vaccination process in UK (on December 8, 2020) with a focus on the COVID-19 vaccine hesitancy messages.
 
